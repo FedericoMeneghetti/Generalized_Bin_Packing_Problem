@@ -1,4 +1,4 @@
-# Generalized_Bin_Packing_Problem
+# Generalized Bin Packing Problem
 
 In questa repository sono state sviluppate alcune semplici euristiche per la risoluzione del Generalized Bin Packing Problem. È stata inoltre implementata una classe che 
 consente di istanziare un oggetto soluzione, con la relativa procedura per generare nuove istanze del problema. I risultati delle euristiche sono sempre comparati a quelli 
